@@ -29,7 +29,9 @@ int main(){
    // printf("%i",i);
     //printf("\n");
     //printf("%i",cont3);
-    //printf("\n");
+   
+ //Powerline unu   
+ //printf("\n");
     printf("YES");
 
     return 0;
